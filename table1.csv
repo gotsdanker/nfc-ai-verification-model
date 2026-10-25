@@ -1,0 +1,7 @@
+score,threshold_1to7,categorical_dialogue,calibrated_q0.5,calibrated_q1,categorical_high_stakes,independent_reference,categorical_after_dialogue
+1,6.1,18.0,20.2,17.0,18.1,0.9,12.9
+2,5.5,15.4,18.7,13.8,17.9,2.6,10.2
+3,4.9,11.2,14.7,9.3,16.4,3.6,5.8
+4,4.3,9.0,11.1,7.4,10.9,4.2,5.1
+5,3.7,7.1,7.6,6.5,6.9,4.6,5.1
+6,3.1,5.1,5.1,5.0,5.0,4.9,5.1

@@ -1,0 +1,16 @@
+variant,final_score1,final_score6,after_dialogue_score1
+base,18.0,5.1,12.9
+accuracy=0.9,19.7,10.1,15.7
+accuracy=0.98,17.1,2.0,11.0
+verify=0.2,20.1,5.0,17.2
+verify=0.8,16.1,5.1,8.4
+sycophancy=0.0,13.7,5.0,3.3
+sycophancy=0.05,14.4,5.1,5.0
+sycophancy=0.1,15.2,4.9,6.9
+sycophancy=0.15,15.8,5.0,8.3
+sycophancy=0.5,20.4,5.0,17.7
+cue_false=0.05,10.8,5.1,12.4
+cue_false=0.1,14.8,5.2,13.0
+cue_false=0.25,25.3,5.0,12.8
+threshold_per_score=0.5,18.0,5.0,12.8
+threshold_per_score=0.4,18.1,5.0,12.8
